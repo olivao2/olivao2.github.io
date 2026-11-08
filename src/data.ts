@@ -7,13 +7,13 @@ export const site = {
 };
 
 export const images = {
-  desert: "/images/desert.jpg",
-  car: "/images/automotive.jpg",
-  portrait: "/images/portrait.jpg",
+  desert: `${import.meta.env.BASE_URL}images/desert.jpg`,
+  car: `${import.meta.env.BASE_URL}images/automotive.jpg`,
+  portrait: `${import.meta.env.BASE_URL}images/portrait.jpg`,
 };
 
 // Todos los proyectos son demostrativos; reemplaza video e imágenes por tu trabajo.
-export const demoVideo = "/video/demo.mp4";
+export const demoVideo = `${import.meta.env.BASE_URL}video/demo.mp4`;
 export const categories = [
   "Todos",
   "Reels / TikToks",

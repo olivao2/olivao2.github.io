@@ -86,3 +86,6 @@ Consulta VERIFICACION.md. Se ejecutaron TypeScript, ESLint, las cinco pruebas de
 ## Créditos
 
 Fotografías de Unsplash: desierto de Wolfgang Hasselmann (photo-1542401886-65d6c61db217), automóvil de Louis Meeckers (photo-1598814165187-ed79437d7490) y retrato de chester wade (photo-1508179522353-11ba468c4a1c). El video es un montaje silencioso de demostración de 30 segundos. Licencias de DM Sans y Space Grotesk conservadas en public/fonts/.
+
+## Publicar en GitHub Pages
+Consulta [GITHUB-PAGES.md](GITHUB-PAGES.md) para el diagnóstico y los pasos de despliegue.

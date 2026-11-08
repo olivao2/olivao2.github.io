@@ -1,0 +1,1 @@
+Verificación de la corrección: npm ci, npm run typecheck, npm run lint, npm test (5/5) y npm run build completados. HTML compilado con rutas relativas ./assets y fuentes relativas. No se publicó en GitHub ni se revisó visualmente en navegador. npm ci informó 7 vulnerabilidades moderadas; no se aplicaron actualizaciones ajenas a la corrección de despliegue.
